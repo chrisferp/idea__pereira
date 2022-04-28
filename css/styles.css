@@ -13,7 +13,7 @@
   	background-image: linear-gradient(to left,red,yellow);
   	font-family: Cascadia Mono SemiBold;
   	position: relative;
-  	display: grid;
+  	/*display: grid;
   	grid-template-columns: repeat(3, 1fr);
   	grid-template-rows: 150px ;
   	grid-template-areas: "header  header  header"
@@ -21,7 +21,7 @@
   						 "aside  main  main"
   						 "aside  main  main"
   						 "footer  footer  footer"
-  						 "footer  footer  footer";
+  						 "footer  footer  footer";*/
 
   }
   aside	{
@@ -86,7 +86,7 @@ footer{
 }
 .mainmenu .menuContent{
 	position: absolute;
-	top: 50px;
+	/*top: 50px;*/
 	left: 25%;
 	
 }
